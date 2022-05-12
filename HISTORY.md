@@ -1,25 +1,25 @@
-1.0.3 / 2020-09-27
-===================
+1.1.1 / 2022-05-12
+==================
 
-  * deps xprezzo-http-errors v1.0.2
+  * depds updated
+  * depds xprezzo-debug updated to 1.1.2
+  * depds xprezzo-http-errors updated to 1.1.2
+  * depds xprezzo-on-finished updated to 1.1.2 
+  * depds eslint updated to 8.15.0
+  * depds eslint-config-standard updated to 17.0.0
+  * depds eslint-plugin-import updated to 2.26.0
+  * depds eslint-plugin-markdown updated to 2.2.1
+  * depds eslint-plugin-promise updated to 6.0.0
+  * depds mocha updated to 10.0.0
+  * depds supertest updated to 10.0.0
+  * remove eslint-plugin-standard
 
-1.0.2 / 2020-09-18
-===================
+1.1.0 / 2020-10-05
+==================
 
-  * expose statuses to public
-  * deps xprezzo-http-errors v1.0.1
-  * uses xprezzo-on-finished v1.0.0 to replace on-finished
+  * depds updated
 
-1.0.1 / 2020-09-18
-===================
+1.0.0 / 2020-10-05
+==================
 
-  * expose debug to public
-  * expose ms to public
-  * add expect.js in dev-dependencies
-  * add test cases for debug
-  * add test cases for ms
-
-1.0.0 / 2020-09-17
-===================
-
-  * Initial commit
+  * Initial release

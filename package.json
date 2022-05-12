@@ -1,8 +1,8 @@
 {
   "name": "xprezzo-send",
   "description": "Better streaming static file server with Range and conditional-GET support",
-  "version": "1.1.0",
-  "author": "Ben Ajenoui <info@seohero.io>",
+  "version": "1.1.1",
+  "author": "Cloudgen Wong <cloudgen.wong@gmail.com>",
   "license": "MIT",
   "repository": "xprezzo/xpreezo-send",
   "keywords": [
@@ -19,23 +19,22 @@
     "fresh": "0.5.2",
     "mime": "1.6.0",
     "range-parser": "~1.2.1",
-    "xprezzo-debug": "1.1.0",
-    "xprezzo-http-errors": "1.1.0",
-    "xprezzo-on-finished": "1.1.0"
+    "xprezzo-debug": "1.1.2",
+    "xprezzo-http-errors": "1.1.2",
+    "xprezzo-on-finished": "1.1.2"
   },
   "devDependencies": {
     "after": "0.8.2",
-    "eslint": "7.8.1",
-    "eslint-config-standard": "14.1.1",
-    "eslint-plugin-import": "2.22.0",
-    "eslint-plugin-markdown": "1.0.2",
+    "eslint": "8.15.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-markdown": "2.2.1",
     "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "4.2.1",
-    "eslint-plugin-standard": "4.0.1",
+    "eslint-plugin-promise": "6.0.0",
     "expect.js": "0.3.1",
-    "mocha": "8.1.3",
+    "mocha": "10.0.0",
     "nyc": "15.1.0",
-    "supertest": "4.0.2"
+    "supertest": "6.2.3"
   },
   "files": [
     "HISTORY.md",
